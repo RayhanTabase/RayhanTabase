@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Salim Abdulai
+- 😃 I’m Salim Abdulai
 - 👀 I’m interested in developing software applications to solve real world problems
 - 🌱 I’m constantly learning and unlearning software tools 
 - 💞️ I’m looking to collaborate in the building of web & mobile applications
