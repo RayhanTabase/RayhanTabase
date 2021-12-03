@@ -8,7 +8,7 @@
 - 📫 You can reach me via mail: salimabdulai2@yahoo.com
 
 
-[![Anselem's github stats](https://github-readme-stats.vercel.app/api?username=RayhanTabase&show_icons=true&theme=tokyonight)](https://github.com/RayhanTabases/github-readme-stats)
+[![Salim's github stats](https://github-readme-stats.vercel.app/api?username=RayhanTabase&show_icons=true&theme=tokyonight)](https://github.com/RayhanTabases/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanTabase&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/RayhanTabases/github-readme-stats) 
 
