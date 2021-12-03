@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanTabase&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/RayhanTabases/github-readme-stats) 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RayhanTabase&repo=Portfolio)](https://github.com/RayhanTabase/Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RayhanTabase&repo=To Do List)](https://github.com/RayhanTabase/to-do-list)
 
 
 ### Languages & Tools
