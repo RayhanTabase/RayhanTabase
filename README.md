@@ -16,6 +16,8 @@
 ### Languages & Tools
 
 ![](https://img.shields.io/badge/code-Python-blue)
+![](https://img.shields.io/badge/code-Django-orange)
+![](https://img.shields.io/badge/code-React-blue)
 ![](https://img.shields.io/badge/code-HTML-orange)
 ![](https://img.shields.io/badge/code-CSS-blue)
 ![](https://img.shields.io/badge/code-Javascript-green)
